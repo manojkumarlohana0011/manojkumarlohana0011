@@ -4,6 +4,7 @@
 - 📫 I can't use social media
 - 😄 Pronouns: manoj
 - ⚡ Fun fact: i am 12 year's old
+- I Am learning From Aptech
 
 <!---
 manojkumarlohana0011/manojkumarlohana0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
