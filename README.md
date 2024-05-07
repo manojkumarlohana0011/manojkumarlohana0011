@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manojkumarlohana0011
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning web development
-- 📫 How to reach me by my social media 
+- 📫 I can't use social media
 - 😄 Pronouns: manoj
 - ⚡ Fun fact: i am 12 year's old
 
