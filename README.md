@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 📫 I can't use social media
 - 😄 Pronouns: manoj
-- ⚡ Fun fact: i am 12 year's old
+- ⚡ Fun fact: I am 13 year's old
 - I Am learning From Aptech
 
 <!---
