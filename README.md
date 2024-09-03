@@ -5,7 +5,6 @@
 - 😄 Pronouns: manoj
 - ⚡ Fun fact: I am 13 year's old
 - I Am learning From Aptech
-- I has start my own youtube channel of Facts and i give channel link Plz Subscribe it
 
 
  <!---
