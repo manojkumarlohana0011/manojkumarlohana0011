@@ -5,6 +5,11 @@
 - 😄 Pronouns: manoj
 - ⚡ Fun fact: I am 13 year's old
 - I Am learning From Aptech
+-  I also know 4 different languages
+Urdu
+English
+Sindhi 
+Hindi
 
 
  <!---
