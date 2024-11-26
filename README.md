@@ -1,15 +1,4 @@
-- 👋 Hi, I’m @manojkumarlohana0011
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning web development
-- 📫 I can't use social media
-- 😄 Pronouns: manoj
-- ⚡ Fun fact: I am 13 year's old
-- I Am learning From Aptech
--  I also know 4 different languages
-Urdu
-English
-Sindhi 
-Hindi
+
 
 
  <!---
